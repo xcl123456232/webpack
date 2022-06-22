@@ -1,0 +1,7 @@
+#忽略index.css这个文件
+#index.css
+
+#忽略test目录下所有的文件
+bebel体验ES6模块化/node_modules
+
+demo1/node_modules
